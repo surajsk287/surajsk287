@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate frontend dePassionate Full Stack Java Developer | Backend with Spring Boot | Frontend with JSP & Bootstrapveloper from India</h3>
+<h3 align="center">Full Stack Java Developer | Backend: Spring Boot & MySQL | Frontend: JSP, HTML, CSS, Bootstrap, JavaScript </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsk287&label=Profile%20views&color=0e75b6&style=flat" alt="surajsk287" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajsk287" alt="surajsk287" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot , Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **itsmesurajkumar4@gmail.com**
 
